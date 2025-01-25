@@ -1,5 +1,6 @@
 # WEB102 Prework - *Sea Monster Crowdfunding Game Tracker*
 
+Submitted by: **Jafrul Amin**
 
 **Sea Monster Crowdfunding Game Tracker** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded. 
 Time spent: **7** hours spent in total
