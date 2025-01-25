@@ -32,7 +32,9 @@ body {
     text-align: center;
 }
 
-#num-contributions, #total-raised, #num-games {
+#num-contributions,
+#total-raised,
+#num-games {
     font-size: 50px;
 }
 
@@ -72,4 +74,34 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+.stats-container {
+    display: flex;
+    align-items: center;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
+
+
+/* // */
+/* // */
+/* // */
+
+/* Search bar styling */
+
+
+#search-input {
+    padding: 8px;
+    width: 200px;
+    margin-right: 20px;
+}
+
+#search-btn {
+    padding: 8px;
+    cursor: pointer;
 }
